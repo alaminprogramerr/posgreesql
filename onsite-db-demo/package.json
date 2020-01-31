@@ -1,0 +1,18 @@
+{
+  "name": "onsite-models",
+  "version": "1.0.0",
+  "description": "Run the demo by:",
+  "main": "models.js",
+  "dependencies": {
+    "pg": "^7.12.1"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node --experimental-modules --no-warnings demo.js"
+  },
+  "author": "Sir Robert Burbridge",
+  "license": "WTF",
+  "keywords": []
+}

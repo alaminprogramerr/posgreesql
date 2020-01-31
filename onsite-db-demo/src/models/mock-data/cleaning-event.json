@@ -1,0 +1,30 @@
+{
+  "site"          : 923487,
+  "start_time"    : 2908347239,
+  "stop_time"     : 2908363458,
+  "cleaned_items" : [
+    {
+      "name"          : "06' Medical Curtain",
+      "count"         : 4,
+      "location_name" : "Exam Room 12",
+      "location_code" : "Room 2389",
+      "notes"         : [
+        {
+          "content"              : "removed heavy ink stains",
+          "photos"               : [],
+          "visible_to_customers" : true,
+          "visible_to_workers"   : true,
+          "visible_to_managers"  : true
+        }
+      ]
+  ],
+  "notes"     : [
+    {
+      "content": "We started 20 minutes late because there were patients in the rooms still",
+      "photos": [],
+      "visible_to_customers" : false,
+      "visible_to_workers"   : true,
+      "visible_to_managers"  : true
+    }
+  ]
+}

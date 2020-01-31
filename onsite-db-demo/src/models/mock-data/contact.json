@@ -1,0 +1,24 @@
+{
+  "full_name"    : "Brian Smith",
+  "title"        : "Charge nurse",
+  "email"        : "brian.smith@duke.edu",
+  "phone"        : "(919) 555-5029",
+  "photo"        : "/photos/profile/284ufklj.png",
+  "site_contact" : true,
+  "notes"        : [
+    {
+      "content": "Will meet us at the front gate with an access code.",
+      "photos": [],
+      "visible_to_customers" : false,
+      "visible_to_workers"   : true,
+      "visible_to_managers"  : true
+    },
+    {
+      "content": "Requested invoices be sent separately.",
+      "photos": [],
+      "visible_to_customers" : true,
+      "visible_to_workers"   : false,
+      "visible_to_managers"  : false 
+    }
+  ]
+}

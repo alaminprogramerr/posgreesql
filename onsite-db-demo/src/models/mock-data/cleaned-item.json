@@ -1,0 +1,15 @@
+{
+   "name"          : "06' Medical Curtain",
+   "count"         : 4,
+   "location_name" : "Exam Room 12",
+   "location_code" : "Room 2389",
+   "notes"         : [
+     {
+       "content"              : "removed heavy ink stains",
+       "photos"               : [],
+       "visible_to_customers" : true,
+       "visible_to_workers"   : true,
+       "visible_to_managers"  : true
+     }
+   ]
+}

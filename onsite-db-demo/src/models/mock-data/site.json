@@ -1,0 +1,27 @@
+{
+  "practice"  : 298347293,
+  "address_1" : "123 Fake Street",
+  "address_2" : "Suite 300",
+  "city"      : "Durham",
+  "state"     : "NC",
+  "zip"       : 27712,
+  "contacts"  : [1283,1839],
+  "cleaning_history" : [92384,9248,3491823,94712,928457],
+  "notes"     : [ 
+    {   
+      "content": "Park on the top floor of the parking garage.",
+      "photos": [], 
+      "visible_to_customers" : false,
+      "visible_to_workers"   : true,
+      "visible_to_managers"  : true
+    },  
+    {   
+      "content": "The entrance is hard to find.  You need to go to the back.  See the photo.",
+      "photos": ["/photos/293480uf2okefnjh0.png"],
+      "visible_to_customers" : false,
+      "visible_to_workers"   : true,
+      "visible_to_managers"  : true
+    }   
+  ]
+
+}

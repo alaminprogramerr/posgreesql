@@ -1,0 +1,20 @@
+{
+  "contact": 234892,
+  "practice": 524789,
+  "notes"     : [
+    {
+      "content": "Jennifer will be the nurse on duty to help us.",
+      "photos": [],
+      "visible_to_customers" : false,
+      "visible_to_workers"   : true,
+      "visible_to_managers"  : true
+    },
+    {
+      "content": "Invoices are requested to be sent separately. ",
+      "photos": [],
+      "visible_to_customers" : true,
+      "visible_to_workers"   : false,
+      "visible_to_managers"  : false 
+    }
+  ]
+}
